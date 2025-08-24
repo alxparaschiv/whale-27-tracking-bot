@@ -1,0 +1,1 @@
+worker: python profitable_whale_tracker_bot_adjusted.py
